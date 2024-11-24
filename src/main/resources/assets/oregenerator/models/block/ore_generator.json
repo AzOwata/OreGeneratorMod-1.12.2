@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "oregenerator:blocks/ore_generator"
+  }
+}
